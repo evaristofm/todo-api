@@ -1,4 +1,4 @@
-# todo-api
+# todo-api com FLASK
 <h1> Criando um api simples de tarefas. </h1>
 
 <p>Os recursos da app estão nessas seguintes rotas</p>
